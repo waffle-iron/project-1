@@ -1,4 +1,4 @@
-project
-=======
+Symfony project as a template
+=============================
 
-A Symfony project created on December 23, 2016, 11:37 pm.
+[![Stories in Ready](https://badge.waffle.io/symfony-bundles/project.png?label=ready&title=Ready)](http://waffle.io/symfony-bundles/project)
